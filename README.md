@@ -1,4 +1,4 @@
-<h1 align="center">Gowtham.G</h1>
+<h1 align="center">Gowtham Ganesan</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-AI%20Undergraduate-blue?style=for-the-badge">
